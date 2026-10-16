@@ -1,0 +1,12 @@
+Orbit,launches,successful,success_pct
+GTO,27,14,51.9
+ISS,21,13,61.9
+VLEO,14,12,85.7
+PO,9,6,66.7
+LEO,7,5,71.4
+SSO,5,5,100.0
+MEO,3,2,66.7
+SO,1,0,0.0
+HEO,1,1,100.0
+GEO,1,1,100.0
+ES-L1,1,1,100.0

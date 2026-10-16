@@ -1,0 +1,5 @@
+model,cv_accuracy,test_accuracy,precision,recall,f1,parameters,confusion_matrix
+Logistic Regression,0.857,0.75,0.722,1.0,0.839,{'model__C': 0.1},"[[2, 5], [0, 13]]"
+SVM,0.9,0.75,0.722,1.0,0.839,"{'model__C': 1, 'model__kernel': 'rbf'}","[[2, 5], [0, 13]]"
+Decision Tree,0.871,0.8,0.846,0.846,0.846,"{'model__max_depth': 3, 'model__min_samples_leaf': 1}","[[5, 2], [2, 11]]"
+KNN,0.871,0.75,0.722,1.0,0.839,{'model__n_neighbors': 9},"[[2, 5], [0, 13]]"
